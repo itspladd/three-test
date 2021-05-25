@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/itspladd/three-test/issues"
   },
-  "homepage": "https://github.com/itspladd/three-test#readme"
+  "homepage": "https://github.com/itspladd/three-test#readme",
+  "dependencies": {
+    "three": "^0.128.0"
+  }
 }
