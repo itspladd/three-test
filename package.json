@@ -18,5 +18,9 @@
   "homepage": "https://github.com/itspladd/three-test#readme",
   "dependencies": {
     "three": "^0.128.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
   }
 }
